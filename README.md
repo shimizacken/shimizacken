@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shimi
+# Hello, I'm Shimi ☺️
 
 👨‍💻 Front-end developer at [@pexip](https://github.com/pexip)
 
