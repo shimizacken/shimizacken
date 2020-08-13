@@ -1,6 +1,6 @@
 # 👋
 
-🇮🇱 Born in Isael<br>
+🇮🇱 Born in Israel<br>
 🇳🇴 Living in Norway
 
 ### Find me elsewhere 🌎
