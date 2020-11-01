@@ -2,9 +2,14 @@
 
 👨‍💻 Front-end developer at [@pexip](https://github.com/pexip)
 
-
 🇮🇱 Born in Israel<br>
-🇳🇴 Living in Norway
+🇳🇴 Living in Norway<br>
+
+👨‍💻 Passionate Front-end developer<br>
+👨‍🏫 Enthusiastic knowledge sharer<br>
+📷 Soulful photography<br>
+🔭 Keen astronomer<br>
+
 
 ### Find me elsewhere 🌎
 
