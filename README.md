@@ -1,6 +1,6 @@
 # Hello, I'm Shimi ☺️
 
-👨‍💻 Front-end developer at [@pexip](https://github.com/pexip)
+👨‍💻 Front-end developer at [@pexip](https://gitlab.com/pexip)
 
 👨‍💻 Passionate Front-end developer<br>
 👨‍🏫 Enthusiastic knowledge sharer<br>
