@@ -5,7 +5,7 @@
 👨‍💻 Passionate Front-end developer<br>
 👨‍🏫 Enthusiastic knowledge sharer<br>
 📷 Soulful photography<br>
-🔭 Keen astronomer<br>
+🔭 Fan astronomer<br>
 
 
 ### Find me elsewhere 🌎
