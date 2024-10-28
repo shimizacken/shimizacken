@@ -1,6 +1,6 @@
 # Hello, I'm Shimi
 
-👨‍💻 Front-end developer at [@sesam](https://githubb.com/sesam)
+👨‍💻 Front-end developer at [@sesam](https://github.com/sesam-io)
 
 👨‍💻 Passionate Front-end developer<br>
 👨‍🏫 Enthusiastic knowledge sharer<br>
