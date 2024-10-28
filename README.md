@@ -1,11 +1,10 @@
 # Hello, I'm Shimi
 
-👨‍💻 Front-end developer at [@pexip](https://gitlab.com/pexip)
+👨‍💻 Front-end developer at [@sesam](https://githubb.com/sesam)
 
 👨‍💻 Passionate Front-end developer<br>
 👨‍🏫 Enthusiastic knowledge sharer<br>
 📷 Soulful photography<br>
-🔭 Fan astronomer<br>
 
 
 ### Find me elsewhere 🌎
