@@ -10,4 +10,4 @@ Outside of coding, I’m a passionate photographer and love exploring new places
 
 - 📧 Email: [shimizacken@gmail.com](mailto:shimizacken@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shimizacken](https://www.linkedin.com/in/shimizacken)  
-- 📷 Photography: [instagram.com/zacken_photography](https://www.instagram.com/zacken_photography) | [500px](https://500px.com/p/shimizacken)
+- 📷 Photography: [instagram 1](https://www.instagram.com/zacken_photography) | [instagram 2](https://www.instagram.com/shimizacken) | [500px](https://500px.com/p/shimizacken)
