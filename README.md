@@ -1,10 +1,7 @@
-# Hello, I'm Shimi
+### 👋 Hi there, I'm Shimi
 
-👨‍💻 Front-end developer at [@sesam](https://github.com/sesam-io)
+I'm a senior frontend developer with 15+ years of experience building enterprise web applications. I specialize in frontend architecture, TypeScript, and modern React-based solutions. I enjoy clean code, testing, refactoring legacy systems, and mentoring teams.  
 
-### Find me elsewhere 🌎
+Outside of coding, I’m a passionate photographer and love exploring new places with my camera.  
 
-🐦 [Twitter](https://twitter.com/shimizacken) <br>
-🤳 [Instagram](https://instagram.com/shimizacken) <br>
-📸 [500px](https://500px.com/shimizacken)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/shimizacken) <br>
+📫 Feel free to reach out or connect!
