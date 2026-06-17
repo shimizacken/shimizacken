@@ -2,7 +2,7 @@
 
 **Senior Frontend Engineer · Frontend Architect · Tech Lead · Trainer**
 
-I build enterprise-grade web applications with 15+ years of experience. Started as a fullstack developer and evolved into a frontend architect specializing in React, TypeScript, and scalable SPA architecture.
+I build enterprise-grade web applications with 18+ years of experience. Started as a fullstack developer and evolved into a frontend architect specializing in React, TypeScript, and scalable SPA architecture.
 
 Based in **Drammen, Norway** - working at [Bouvet](https://www.bouvet.no) in Oslo.
 
@@ -12,6 +12,7 @@ Based in **Drammen, Norway** - working at [Bouvet](https://www.bouvet.no) in Osl
 
 - **[Sesam VS Code Extension](https://github.com/shimizacken/cv)** - Full-featured VS Code extension for the Sesam integration platform, built with LSP, TypeScript monorepo, and GitHub Copilot integration
 - **Vibe Coding in the Frontend** - A 4-day AI-assisted development workshop using GitHub Copilot for frontend developers
+- **Practical Functional Programming** - Designed and delivered a 3-day workshop (16 topics, 42 exercises) on FP with JavaScript and TypeScript
 - **Sesam Management Studio** - Lead Frontend Engineer on a complex data sync & integration platform (React, TypeScript, Cypress, Docker)
 
 ---
@@ -64,6 +65,7 @@ Based in **Drammen, Norway** - working at [Bouvet](https://www.bouvet.no) in Osl
 - **Testing** - TDD, unit testing with Jest, E2E with Cypress/Playwright, visual testing with Chromatic
 - **Security** - OWASP, vulnerability management, secure coding practices
 - **Teaching & Training** - Workshop design, course development, knowledge transfer, mentoring
+- **Functional Programming** - Applied FP patterns in production, designed and delivered a 3-day FP workshop for developers
 - **AI-assisted Development** - Agentic workflows, spec-driven development, GitHub Copilot
 
 ---
